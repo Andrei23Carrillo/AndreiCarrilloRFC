@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndreiCarrilloRFC</string>
+    <string name="primer_nombre">Primer Nombre</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="segund_apellido">Segund Apellido</string>
+    <string name="primer_apellido">Primer Apellido</string>
+    <string name="rfc">RFC</string>
+    <string name="crear">Crear</string>
+    <string name="dia">dia</string>
+    <string name="mes">mes</string>
+    <string name="a_o">año</string>
+</resources>
